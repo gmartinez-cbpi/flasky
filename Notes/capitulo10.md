@@ -1,4 +1,4 @@
-# Periles de usuario
+# Perfiles de usuario
 
 ## Información del perfil
 Se extiende el modelo `User` para almacenar más información del usuario:
